@@ -503,14 +503,6 @@ A profile can consist of payloads with different version numbers. For example, c
 								<key>pfm_type</key>
 								<string>string</string>
 							</dict>
-							<dict>
-								<key>pfm_name</key>
-								<string>alwaysActive</string>
-								<key>pfm_title</key>
-								<string>Always Active</string>
-								<key>pfm_type</key>
-								<string>boolean</string>
-							</dict>
 						</array>
 					</dict>
 				</array>
@@ -583,6 +575,14 @@ A profile can consist of payloads with different version numbers. For example, c
 								<string>singingID</string>
 								<key>pfm_title</key>
 								<string>SigningID</string>
+								<key>pfm_type</key>
+								<string>string</string>
+							</dict>
+							<dict>
+								<key>pfm_name</key>
+								<string>teamID</string>
+								<key>pfm_title</key>
+								<string>Team ID</string>
 								<key>pfm_type</key>
 								<string>string</string>
 							</dict>
