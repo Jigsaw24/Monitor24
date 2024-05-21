@@ -11,3 +11,5 @@ There are 2 packages Monitor24 & Monitor24 Controller, the controller is a tool 
 [Configuration Guide](./docs/Configuration.md)
 
 [Monitor24 Controller](./docs/Controller.md)
+
+[Uninstall](./docs/Removal.md)
